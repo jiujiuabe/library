@@ -1,0 +1,22 @@
+.header{
+    padding:20px;
+    height: 200px;
+    background: #0a61A3;
+    margin: 0 auto;
+    position: relative;
+}
+.main{
+    padding:20px;
+    height: 1500px;
+    background: #ffffff;
+    margin: 0 auto;
+    position: relative;
+}
+.end{
+    padding:80px;
+    width: 958px;
+    height: 200px;
+    background: #0a61A3;
+    margin: 0 auto;
+    position: absolute;top: 1700px;left: 0;
+}

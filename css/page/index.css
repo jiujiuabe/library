@@ -1,0 +1,185 @@
+.topMenu{
+    width: 700px;height: 30px;background:#0a61A3 ;
+    position: absolute;top: 10px;left: 10px;
+}
+.topMenu ul{float: left;}
+.topMenu ul li{float: left;padding: 0 25px;color: #FFFFFF;font-size: 20px;}
+.topMenu ul li:hover{background:#0a3b61; cursor:pointer}
+.logoDev{
+    width: 100px;height: 100px;background:#0a61A3 ;
+    position: absolute;top: 70px;left: 150px;
+    text-align: center;
+    font-size: 60px;font-family: Bradley Hand ITC;
+    color: #FFFFFF;
+}
+.search{
+    width: 400px;height: 50px;background:#0a61A3 ;
+    position: absolute;top: 90px;right: 50px;
+    text-align: center;font-size: 33px;
+    color: #FFFFFF;
+}
+.search:hover{background:#0a3b61; cursor:pointer}
+input.searchBut{
+    width: 40px;height: 40px;
+    position: absolute;top: 100px;right: 150px;
+    background: url("F:/html/image/1.jpg")no-repeat;
+}
+.bottleMenu{
+    width: 900px;height: 30px;background: #0a61A3 ;
+    position: absolute;top: 200px;left: 10px;
+}
+.bottleMenu ul{float: left;}
+.bottleMenu ul li{float: left;padding: 0 25px;color: #FFFFFF;font-size: 20px;}
+.bottleMenu ul li:hover{background:#0a3b61; cursor:pointer}
+.sliderDev{
+    width: 750px;height: 321px;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.sliderDev ul{
+    width: 4000px;
+    position: absolute;top: 10px;left: -0px;
+}
+.sliderDev ul li{
+    width: 750px;height: 330px;
+    float: left;
+    overflow: hidden;
+}
+.sliderDev ul li img{
+    width: 750px;height: 321px;
+}
+.pointerBut{
+    width: 370px;height: 21px;
+    position: absolute;z-index: 10;
+    left: 310px;bottom: 20px;
+}
+.pointerBut ul{
+    width: 370px;position: static;
+}
+.pointerBut ul li{
+    background: #FFFFFF;
+    border-radius: 100%;margin: 0 12px 0 0;
+    width: 17px;height: 17px;
+}
+.pointerBut ul li.bgc{background: #4285B8;}
+.pointerBut ul li:hover{
+    background: #4285B8;cursor: pointer;
+}
+.Title1{
+    width: 100px;height: 100px;background:#FFFFFF ;
+    position: absolute;top: 29px;left: 780px;
+    text-align: center;
+    font-size: 20px;font-family: Yu Gothic UI Semibold;
+    color: #000000;
+}
+.title1{
+    width: 218px;height: 50px;margin: 0 auto;
+    position: absolute;left:900px;
+    background: url("F:/html/image/5.jpg")repeat-x center;
+}
+.title1_1{
+    width: 235px;height: 300px;margin: 0 auto;
+    position: absolute;top: 70px;left:780px;
+    background: url("F:/html/image/6.jpg")no-repeat;
+}
+.title1_1:hover{
+    cursor: pointer;
+}
+.title1_1_1{
+    width: 90px;height: 120px;background:#FFFFFF ;
+    position: absolute;top: 250px;left: 1020px;
+    text-align: center;
+    font-size: 20px;font-family: Microsoft Ya Hei;
+    color: #000000;
+}
+.Title2{
+    width: 100px;height: 30px;background:#FFFFFF ;
+    position: absolute;top: 342px;left: 15px;
+    font-size: 20px;font-family: Yu Gothic UI Semibold;
+    color: #000000;
+}
+.title2_1{
+    width: 218px;height: 30px;margin: 0 auto;
+    position: absolute;top: 342px;left:115px;
+    background: url("F:/html/image/5.jpg")repeat-x center;
+}
+.title2{
+    height: 30px;background:#ffffff ;
+    position: absolute;top: 380px;left: 40px;
+
+}
+.title2 ul{float: left;}
+.title2 ul li{float: left;padding: 0 25px;color: #000000;font-size: 20px;}
+.title2 ul li:hover{background:#4285B8; cursor:pointer}
+.Title3{
+    width: 100px;height: 100px;background:#FFFFFF ;
+    position: absolute;top: 420px;left: 15px;
+    text-align: center;
+    font-size: 20px;font-family: Yu Gothic UI Semibold;
+    color: #000000;
+}
+.title3{
+    width: 218px;height: 50px;margin: 0 auto;
+    position: absolute;top: 410px;left:250px;
+    background: url("F:/html/image/5.jpg")repeat-x center;
+}
+.main1{
+    width: 235px;height: 333px;margin: 0 auto;
+    position: absolute;top: 460px;left:40px;
+    background: url("F:/html/image/7.jpg")no-repeat;
+}
+.main1:hover{
+    cursor: pointer;
+}
+.main1_1{
+    width: 700px;height: 333px;background:#6E6E6C ;
+    position: absolute;top: 460px;left: 300px;
+    font-size: 25px;font-family: Microsoft Ya Hei;
+    letter-spacing: 3px;
+    color: #ffffff;
+}
+.main2{
+    width: 235px;height: 300px;margin: 0 auto;
+    position: absolute;top: 813px;left:40px;
+    background: url("F:/html/image/8.jpg")no-repeat;
+}
+.main2:hover{
+    cursor: pointer;
+}
+.main2_1{
+    width: 700px;height: 300px;background:#DB0723 ;
+    position: absolute;top: 813px;left: 300px;
+    font-size: 29px;font-family: Microsoft Ya Hei;
+    letter-spacing: 3px;
+    color: #ffffff;
+}
+.main3{
+    width: 235px;height: 355px;margin: 0 auto;
+    position: absolute;top: 1133px;left:40px;
+    background: url("F:/html/image/9.jpg")no-repeat;
+}
+.main3:hover{
+    cursor: pointer;
+}
+.main3_1{
+    width: 700px;height: 355px;background:#929292 ;
+    position: absolute;top: 1133px;left: 300px;
+    font-size: 26px;font-family: Microsoft Ya Hei;
+    letter-spacing: 3px;
+    color: #ffffff;
+}
+.logoDev_1{
+    width: 100px;height: 100px;background:#0a61A3 ;
+    position: absolute;top: 70px;left: 150px;
+    text-align: center;
+    font-size: 60px;font-family: Bradley Hand ITC;
+    color: #FFFFFF;
+}
+.bottleMenu_1{
+    width: 900px;height: 30px;background: #0a61A3 ;
+    position: absolute;top: 200px;left: 10px;
+}
+.bottleMenu_1 ul{float: right;}
+.bottleMenu_1 ul li{padding: 0 25px;color: #FFFFFF;font-size: 20px;}
+.bottleMenu_1 ul li:hover{background:#0a3b61; cursor:pointer}
