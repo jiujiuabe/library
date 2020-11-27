@@ -22,7 +22,7 @@
 input.searchBut{
     width: 40px;height: 40px;
     position: absolute;top: 100px;right: 150px;
-    background: url("../../../image/1.jpg")no-repeat;
+    background: url("https://jiujiuabe.github.io/library/image/1.jpg")no-repeat;
 }
 .bottleMenu{
     width: 900px;height: 30px;background: #0a61A3 ;
@@ -76,12 +76,12 @@ input.searchBut{
 .title1{
     width: 218px;height: 50px;margin: 0 auto;
     position: absolute;left:900px;
-    background: url("image/5.jpg")repeat-x center;
+    background: url("https://jiujiuabe.github.io/library/image/5.jpg")repeat-x center;
 }
 .title1_1{
     width: 235px;height: 300px;margin: 0 auto;
     position: absolute;top: 70px;left:780px;
-    background: url("image/6.jpg")no-repeat;
+    background: url("https://jiujiuabe.github.io/library/image/6.jpg")no-repeat;
 }
 .title1_1:hover{
     cursor: pointer;
@@ -102,7 +102,7 @@ input.searchBut{
 .title2_1{
     width: 218px;height: 30px;margin: 0 auto;
     position: absolute;top: 342px;left:115px;
-    background: url("image/5.jpg")repeat-x center;
+    background: url("https://jiujiuabe.github.io/library/image/5.jpg")repeat-x center;
 }
 .title2{
     height: 30px;background:#ffffff ;
@@ -122,12 +122,12 @@ input.searchBut{
 .title3{
     width: 218px;height: 50px;margin: 0 auto;
     position: absolute;top: 410px;left:250px;
-    background: url("image/5.jpg")repeat-x center;
+    background: url("https://jiujiuabe.github.io/library/image/5.jpg")repeat-x center;
 }
 .main1{
     width: 235px;height: 333px;margin: 0 auto;
     position: absolute;top: 460px;left:40px;
-    background: url("image/7.jpg")no-repeat;
+    background: url("https://jiujiuabe.github.io/library/image/7.jpg")no-repeat;
 }
 .main1:hover{
     cursor: pointer;
@@ -142,7 +142,7 @@ input.searchBut{
 .main2{
     width: 235px;height: 300px;margin: 0 auto;
     position: absolute;top: 813px;left:40px;
-    background: url("image/8.jpg")no-repeat;
+    background: url("https://jiujiuabe.github.io/library/image/8.jpg")no-repeat;
 }
 .main2:hover{
     cursor: pointer;
@@ -157,7 +157,7 @@ input.searchBut{
 .main3{
     width: 235px;height: 355px;margin: 0 auto;
     position: absolute;top: 1133px;left:40px;
-    background: url("image/9.jpg")no-repeat;
+    background: url("https://jiujiuabe.github.io/library/image/9.jpg")no-repeat;
 }
 .main3:hover{
     cursor: pointer;
